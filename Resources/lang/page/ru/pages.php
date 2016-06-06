@@ -26,6 +26,7 @@ return [
         'template' => 'Название шаблона страницы',
         'is homepage' => 'Домашняя страница ?',
         'body' => 'Содержание',
+        'code' => 'Kод',
     ],
     'validation' => [
         'attributes' => [

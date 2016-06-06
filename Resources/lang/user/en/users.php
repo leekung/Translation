@@ -46,4 +46,5 @@ return [
     'new password setup' => 'Setup a new password',
     'or send reset password mail' => 'or, send reset password email',
     'send reset password email' => 'Send reset password email',
+    'latest user' => 'Latest Users',
 ];

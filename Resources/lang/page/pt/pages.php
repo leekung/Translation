@@ -24,6 +24,7 @@ return [
         'template' => 'Layout da página',
         'is homepage' => 'Página inicial ?',
         'body' => 'Conteúdo',
+        'code' => 'Código',
     ],
     'validation' => [
         'attributes' => [

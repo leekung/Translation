@@ -26,6 +26,7 @@ return [
         'template' => 'Page template name',
         'is homepage' => 'Homepage ?',
         'body' => 'Body',
+        'code' => 'Code',
     ],
     'validation' => [
         'attributes' => [

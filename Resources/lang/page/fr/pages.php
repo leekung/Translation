@@ -26,6 +26,7 @@ return [
         'template' => 'Modèle de page',
         'is homepage' => 'Page d\'accueil ?',
         'body' => 'Contenu',
+        'code' => 'Code',
     ],
     'validation' => [
         'attributes' => [

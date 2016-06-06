@@ -26,6 +26,7 @@ return [
         'template' => 'Sayfa Template Adı',
         'is homepage' => 'Anasayfa mı ?',
         'body' => 'İçerik',
+        'code' => 'Kod',
     ],
     'validation' => [
         'attributes' => [

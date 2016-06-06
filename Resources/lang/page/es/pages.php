@@ -26,6 +26,7 @@ return [
         'template' => 'Nombre de la plantilla de la página',
         'is homepage' => '¿Es la Página principal?',
         'body' => 'Cuerpo',
+        'code' => 'Código',
     ],
     'validation' => [
         'attributes' => [

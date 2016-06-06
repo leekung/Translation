@@ -24,6 +24,7 @@ return [
         'template' => 'Nome template pagina',
         'is homepage' => 'Homepage ?',
         'body' => 'Corpo',
+        'code' => 'Codice',
     ],
     'validation' => [
         'attributes' => [

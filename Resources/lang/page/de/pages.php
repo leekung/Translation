@@ -24,6 +24,7 @@ return [
         'template' => 'Seitenvorlage',
         'is homepage' => 'Startseite?',
         'body' => 'Inhalt',
+        'code' => 'Code',
     ],
     'validation' => [
         'attributes' => [

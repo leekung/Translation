@@ -24,6 +24,7 @@ return [
         'template' => 'Szablon strony',
         'is homepage' => 'Strona domowa ?',
         'body' => 'Treść',
+        'code' => 'Kod',
     ],
     'validation' => [
         'attributes' => [

@@ -24,6 +24,7 @@ return [
         'template' => '页面模板名称',
         'is homepage' => '主页 ?',
         'body' => '内容',
+        'code' => '码',
     ],
     'validation' => [
         'attributes' => [

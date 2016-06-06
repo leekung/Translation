@@ -32,6 +32,8 @@ return [
         'delete' => 'Delete',
         'reset' => 'Reset',
         'update and back' => 'Update and go back',
+        'create and continue edit' => 'Create and continue edit',
+        'update and continue edit' => 'Update and continue edit',
     ],
     'breadcrumb' => [
         'home' => 'Home',

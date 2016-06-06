@@ -26,6 +26,7 @@ return [
         'template' => 'Pagina template naam',
         'is homepage' => 'Startpagina?',
         'body' => 'Inhoud',
+        'code' => 'Code',
     ],
     'validation' => [
         'attributes' => [
