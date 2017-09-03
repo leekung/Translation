@@ -40,7 +40,7 @@ class TranslationServiceProvider extends ServiceProvider
     {
         $this->registerValidators();
 
-        if ($this->shouldRegisterCustomTranslator()) {
+        if (env('CUSTOM_TRANSLATOR', true) || $this->shouldRegisterCustomTranslator()) {
             $this->registerCustomTranslator();
         }
     }
